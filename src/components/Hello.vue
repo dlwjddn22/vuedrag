@@ -48,7 +48,7 @@
 <script>
 import draggable from "vuedraggable";
 const message = [
-  "vue.draggable",
+  "vue.draggable11",
   "draggable",
   "component",
   "for",
